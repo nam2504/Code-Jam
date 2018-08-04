@@ -1,0 +1,73 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>nam2504</groupId>
+  <artifactId>Code.Build</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0</version>
+  <inceptionYear>2008</inceptionYear>
+    <modules>
+        <module>../Code.Common</module>
+        <module>../Code.2017</module>
+    </modules>
+
+    <properties>
+    <scala.version>2.10.3</scala.version>
+    <scala.compat.version>2.10</scala.compat.version>
+  </properties>
+
+    <profiles>
+        <profile>
+            <id>Code.Common</id>
+            <modules>
+                <module>../Code.Common</module>
+            </modules>
+            <build>
+                <plugins>
+                    <plugin>
+                        <groupId>org.scala-tools</groupId>
+                        <artifactId>maven-scala-plugin</artifactId>
+                        <version>2.15.0</version>
+                    </plugin>
+                    <plugin>
+                        <groupId>org.apache.maven.plugins</groupId>
+                        <artifactId>maven-compiler-plugin</artifactId>
+                        <version>2.0.2</version>
+                        <configuration>
+                            <source>1.7</source>
+                            <target>1.7</target>
+                            <compilerArgument></compilerArgument>
+                        </configuration>
+                    </plugin>
+                </plugins>
+            </build>
+        </profile>
+
+        <profile>
+            <id>Code.2017</id>
+            <modules>
+                <module>../Code.2017</module>
+            </modules>
+            <build>
+                <plugins>
+                    <plugin>
+                        <groupId>org.scala-tools</groupId>
+                        <artifactId>maven-scala-plugin</artifactId>
+                        <version>2.15.0</version>
+                    </plugin>
+                    <plugin>
+                        <groupId>org.apache.maven.plugins</groupId>
+                        <artifactId>maven-compiler-plugin</artifactId>
+                        <version>2.0.2</version>
+                        <configuration>
+                            <source>1.7</source>
+                            <target>1.7</target>
+                            <compilerArgument></compilerArgument>
+                        </configuration>
+                    </plugin>
+                </plugins>
+            </build>
+        </profile>
+    </profiles>
+
+
+</project>
