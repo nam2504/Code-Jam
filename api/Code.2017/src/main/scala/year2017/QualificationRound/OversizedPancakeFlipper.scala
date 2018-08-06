@@ -1,4 +1,6 @@
-package nam2504.QualificationRound
+package year2017.QualificationRound
+
+import java.io.File
 
 import nam2504.common.utils.FileUtils
 
@@ -21,7 +23,7 @@ import nam2504.common.utils.FileUtils
 class OversizedPancakeFlipper {
 	val IMPOSSIBLE: Int = -1
 	def flip(data : Array[Boolean], k : Int) : Int = {
-		println(data.mkString(","))
+//		println(data.mkString(","))
 		var index = 0
 		var flip = 0
 		
@@ -64,23 +66,32 @@ class OversizedPancakeFlipper {
 	
 	def excute(file : String) = {
 		val reader = FileUtils.getReader(file)
+		val writer = FileUtils.getWriter(file.replace("in","out"))
 		val n = reader.readLine().toInt
 		for (i <- 1 to n) {
 			val line = reader.readLine()
 			val result = flip(line)
-			println(s"Case #$i : $result")
+			writer.println(s"Case #$i: ${if (result != IMPOSSIBLE) result else "IMPOSSIBLE"}")
 		}
 		reader.close()
+		writer.close()
+	}
+	
+	def run() = {
+		val pathFormat = "..\\[Year]\\DataTest\\[Round]\\A-[Type]-practice.in"
+		val path = pathFormat.replace("[Year]", this.getClass.getName)
 	}
 }
 
 object OversizedPancakeFlipperTest {
 	val service = new OversizedPancakeFlipper()
 	def main(args: Array[String]): Unit = {
-//		val result = service.flip(Array(true,false,false,true,false), 6)
+		val result = service.flip(Array(true,false,false,true,false), 6)
 //		val result = service.flip("---+-++- 3")
 //		println(result)
-		val path = 
-		service.excute()
+		val pathSmall = "..\\Code.2017\\DataTest\\Oversized Pancake Flipper\\A-small-practice.in"
+		service.excute(pathSmall)
+		val pathLarge = "..\\Code.2017\\DataTest\\Oversized Pancake Flipper\\A-large-practice.in"
+		service.excute(pathLarge)
 	}
 }

@@ -10,8 +10,5 @@
         <module name="Code.Common" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="Code.Build" target="1.7" />
-    </bytecodeTargetLevel>
   </component>
 </project>

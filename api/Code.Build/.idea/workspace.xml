@@ -18,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/../Code.2017/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding>
                 <element signature="n#build#0;n#project#0;n#!!top" />
               </folding>
@@ -30,43 +30,25 @@
         <entry file="file://$PROJECT_DIR$/../Code.Common/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="App.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Code.2017/src/main/scala/nam2504/App.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Main.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Code.2017/src/main/scala/nam2504/QualificationRound/Main.scala">
+        <entry file="file://$PROJECT_DIR$/../Code.2017/src/main/scala/year2017/QualificationRound/Main.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            <state relative-caret-position="187">
+              <caret line="11" column="33" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="11" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OversizedPancakeFlipper.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../Code.2017/src/main/scala/nam2504/QualificationRound/OversizedPancakeFlipper.scala">
+      <file leaf-file-name="BathroomStalls.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Code.2017/src/main/scala/year2017/QualificationRound/BathroomStalls.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="71" column="9" lean-forward="true" selection-start-line="71" selection-start-column="9" selection-end-line="71" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Problem.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Code.Common/src/main/scala/nam2504/common/Problem.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            <state relative-caret-position="-102">
+              <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -78,6 +60,9 @@
       <list>
         <option value="$PROJECT_DIR$/../Code.Common/src/main/scala/nam2504/common/Problem.scala" />
         <option value="$PROJECT_DIR$/../Code.2017/src/main/scala/nam2504/QualificationRound/OversizedPancakeFlipper.scala" />
+        <option value="$PROJECT_DIR$/../Code.2017/src/main/scala/year2017/QualificationRound/OversizedPancakeFlipper.scala" />
+        <option value="$PROJECT_DIR$/../Code.2017/src/main/scala/year2017/QualificationRound/Main.scala" />
+        <option value="$PROJECT_DIR$/../Code.2017/src/main/scala/year2017/QualificationRound/BathroomStalls.scala" />
       </list>
     </option>
   </component>
@@ -133,6 +118,7 @@
     <panes>
       <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -222,7 +208,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="nam2504" type="462c0819:PsiDirectoryNode" />
+              <item name="year2017" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Code.Build" type="b2602c69:ProjectViewProjectNode" />
@@ -231,14 +217,37 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="nam2504" type="462c0819:PsiDirectoryNode" />
+              <item name="year2017" type="462c0819:PsiDirectoryNode" />
               <item name="QualificationRound" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Code.Build" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Code.2017" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="Code.2017" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Code.Build" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Code.2017" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="Code.2017" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Code.Build" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Code.2017" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="Code.2017" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="nam2504" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -264,7 +273,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OversizedPancakeFlipperTest">
+  <component name="RunManager" selected="Application.BathroomStallsTest">
     <configuration name="App" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="nam2504.App" />
       <module name="Code.2017" />
@@ -276,13 +285,24 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="OversizedPancakeFlipperTest" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="nam2504.QualificationRound.OversizedPancakeFlipperTest" />
+    <configuration name="BathroomStallsTest" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="year2017.QualificationRound.BathroomStallsTest" />
       <module name="Code.2017" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nam2504.QualificationRound.*" />
+          <option name="PATTERN" value="year2017.QualificationRound.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="OversizedPancakeFlipperTest" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="nam2504.OversizedPancakeFlipperTest" />
+      <module name="Code.2017" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nam2504.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -331,9 +351,11 @@
     <list>
       <item itemvalue="Application.App" />
       <item itemvalue="Application.OversizedPancakeFlipperTest" />
+      <item itemvalue="Application.BathroomStallsTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BathroomStallsTest" />
         <item itemvalue="Application.OversizedPancakeFlipperTest" />
         <item itemvalue="Application.App" />
       </list>
@@ -351,12 +373,13 @@
       <updated>1533203433483</updated>
       <workItem from="1533203434749" duration="966000" />
       <workItem from="1533213823723" duration="6000" />
-      <workItem from="1533389393995" duration="2932000" />
+      <workItem from="1533389393995" duration="5139000" />
+      <workItem from="1533516222211" duration="3239000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3904000" />
+    <option name="totallyTimeSpent" value="9350000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -364,7 +387,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.32897604" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32897604" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -376,7 +399,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -400,10 +423,73 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/../Code.2017/src/main/scala/year2017/QualificationRound/BathroomStalls.scala</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/../Code.2017/src/main/scala/year2017/QualificationRound/BathroomStalls.scala</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="5" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../Code.2017/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="n#build#0;n#project#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Code.Common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Code.2017/src/main/scala/year2017/App.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Code.2017/src/main/scala/year2017/QualificationRound/Main.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Code.Common/src/main/scala/nam2504/common/utils/FileUtils.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Code.2017/src/main/scala/year2017/QualificationRound/OversizedPancakeFlipper.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="88" column="8" selection-start-line="88" selection-start-column="8" selection-end-line="88" selection-end-column="8" />
+          <folding>
+            <element signature="e#36#55#0" expanded="true" />
+            <element signature="e#2435#3905#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../Code.2017/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -424,45 +510,81 @@
     <entry file="file://$PROJECT_DIR$/../Code.2017/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="n#build#0;n#project#0;n#!!top" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Code.Common/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Code.2017/src/main/scala/nam2504/App.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Code.2017/src/main/scala/nam2504/QualificationRound/Main.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Code.Common/src/main/scala/nam2504/common/Problem.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Code.2017/src/main/scala/nam2504/QualificationRound/OversizedPancakeFlipper.scala">
+    <entry file="file://$PROJECT_DIR$/../Code.2017/DataTest/Oversized Pancake Flipper/A-large-practice.out" />
+    <entry file="file://$PROJECT_DIR$/../Code.Common/src/main/scala/nam2504/common/utils/FileUtils.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="71" column="9" lean-forward="true" selection-start-line="71" selection-start-column="9" selection-end-line="71" selection-end-column="9" />
+        <state relative-caret-position="85">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Code.2017/src/test/scala/nam2504/AppTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="625" column="28" selection-start-line="625" selection-start-column="28" selection-end-line="625" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/lang/StrictMath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="612" column="32" selection-start-line="612" selection-start-column="32" selection-end-line="612" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Code.2017/src/main/scala/year2017/App.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Code.Common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Code.2017/src/main/scala/year2017/QualificationRound/OversizedPancakeFlipper.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="59" column="52" lean-forward="true" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Code.2017/src/main/scala/year2017/QualificationRound/Main.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="33" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Code.2017/src/main/scala/year2017/QualificationRound/BathroomStalls.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102">
+          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
         </state>
       </provider>
     </entry>
